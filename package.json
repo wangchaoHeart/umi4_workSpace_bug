@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "umi4-test",
   "private": true,
   "workspaces": [
     "packages/*"
